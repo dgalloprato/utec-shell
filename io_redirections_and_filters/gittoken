@@ -1,3 +1,0 @@
-#!/bin/bash
-git config --global credential.helper 'cache --timeout=43200'
-echo "Git configurado para mantener las credenciales durante esta sesión."
